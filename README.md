@@ -25,9 +25,9 @@
 ---
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/thinking-in-java/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/thinking-in-java)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/thinking-in-java)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/thinking-in-java)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/thinking-in-java)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/thinking-in-java)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/thinking-in-java)
 + [代码仓库](http://github.com/it-ebooks/thinking-in-java-zh)
 
 > 注
